@@ -1,7 +1,7 @@
 # Desafio 01 - Conceitos do Node.js
 
 <div align="center">
-    <img width="900px" alt="Ignite" src="assets/capa_ignite.png" />
+    <img width="90%" alt="Ignite" src="assets/capa_ignite.png" />
 
 Este desafio faz parte da lista de desafios que compõem o curso de NodeJS. 
 
@@ -16,10 +16,6 @@ Visite à [Rockseat](https://rocketseat.com.br/) para saber mais sobre o curso.
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
-  <a href="https://github.com/rocketseat-education/ignite-template-conceitos-do-nodejs/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat-education/ignite-template-conceitos-do-nodejs?style=social">
-  </a>
 </p>
 
 <p align="center">
